@@ -1,0 +1,15 @@
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\bin\Debug\netcoreapp6.0\Revisao.exe
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\bin\Debug\netcoreapp6.0\Revisao.deps.json
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\bin\Debug\netcoreapp6.0\Revisao.runtimeconfig.json
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\bin\Debug\netcoreapp6.0\Revisao.dll
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\bin\Debug\netcoreapp6.0\ref\Revisao.dll
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\bin\Debug\netcoreapp6.0\Revisao.pdb
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\obj\Debug\netcoreapp6.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\obj\Debug\netcoreapp6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\obj\Debug\netcoreapp6.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\obj\Debug\netcoreapp6.0\Revisao.AssemblyInfo.cs
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\obj\Debug\netcoreapp6.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\obj\Debug\netcoreapp6.0\Revisao.dll
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\obj\Debug\netcoreapp6.0\ref\Revisao.dll
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\obj\Debug\netcoreapp6.0\Revisao.pdb
+C:\Users\CPD\Desktop\DIO\REVISAO\Revisao\obj\Debug\netcoreapp6.0\Revisao.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b2f28584-f1b3-497d-bc70-8df58da56d0c": {
+      "ProjectGuid": "b2f28584-f1b3-497d-bc70-8df58da56d0c",
+      "DisplayName": "Revisao",
+      "ColorIndex": 0
+    },
+    "6a3c923e-8ec9-46da-a572-cf31356bc851": {
+      "ProjectGuid": "6a3c923e-8ec9-46da-a572-cf31356bc851",
+      "DisplayName": "Revisao",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
